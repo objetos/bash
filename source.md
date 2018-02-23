@@ -32,15 +32,12 @@ H:
 1. More About Files <!-- .element: class="fragment" data-fragment-index="3"-->
 1. Manual Pages <!-- .element: class="fragment" data-fragment-index="4"-->
 1. File Manipulation <!-- .element: class="fragment" data-fragment-index="5"-->
-1. Vi Text Editor <!-- .element: class="fragment" data-fragment-index="6"-->
-1. Wildcards <!-- .element: class="fragment" data-fragment-index="7"-->
-1. Permissions <!-- .element: class="fragment" data-fragment-index="8"-->
-1. Filters <!-- .element: class="fragment" data-fragment-index="9"-->
-1. Grep and Regular Expressions <!-- .element: class="fragment" data-fragment-index="10"-->
-1. Piping and Redirection <!-- .element: class="fragment" data-fragment-index="11"-->
-1. Process Management <!-- .element: class="fragment" data-fragment-index="12"-->
-1. Scripting <!-- .element: class="fragment" data-fragment-index="13"-->
-1. Cheat Sheet <!-- .element: class="fragment" data-fragment-index="14"-->
+1. Wildcards <!-- .element: class="fragment" data-fragment-index="6"-->
+1. Permissions <!-- .element: class="fragment" data-fragment-index="7"-->
+1. Filters <!-- .element: class="fragment" data-fragment-index="8"-->
+1. Grep and Regular Expressions <!-- .element: class="fragment" data-fragment-index="9"-->
+1. Piping and Redirection <!-- .element: class="fragment" data-fragment-index="10"-->
+1. Process Management <!-- .element: class="fragment" data-fragment-index="11"-->
  
 H:
 
@@ -54,6 +51,7 @@ H:
 V:
 
 ## The command line
+### Subtitulo
 
 ```sh
 pierre ~/web/objetos/objects $ pwd
