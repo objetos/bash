@@ -27,31 +27,96 @@ H:
 
 # Index
 
- 1. Program paradigms (brief overview) <!-- .element: class="fragment" data-fragment-index="1"-->
- 1. Using an object <!-- .element: class="fragment" data-fragment-index="2"-->
- 1. Declaring an object <!-- .element: class="fragment" data-fragment-index="3"-->
- 1. Initializing an object <!-- .element: class="fragment" data-fragment-index="4"-->
- 1. Calling object methods <!-- .element: class="fragment" data-fragment-index="5"-->
+1. The Command Line <!-- .element: class="fragment" data-fragment-index="1"-->
+1. Basic Navigation <!-- .element: class="fragment" data-fragment-index="2"-->
+1. More About Files <!-- .element: class="fragment" data-fragment-index="3"-->
+1. Manual Pages <!-- .element: class="fragment" data-fragment-index="4"-->
+1. File Manipulation <!-- .element: class="fragment" data-fragment-index="5"-->
+1. Vi Text Editor <!-- .element: class="fragment" data-fragment-index="6"-->
+1. Wildcards <!-- .element: class="fragment" data-fragment-index="7"-->
+1. Permissions <!-- .element: class="fragment" data-fragment-index="8"-->
+1. Filters <!-- .element: class="fragment" data-fragment-index="9"-->
+1. Grep and Regular Expressions <!-- .element: class="fragment" data-fragment-index="10"-->
+1. Piping and Redirection <!-- .element: class="fragment" data-fragment-index="11"-->
+1. Process Management <!-- .element: class="fragment" data-fragment-index="12"-->
+1. Scripting <!-- .element: class="fragment" data-fragment-index="13"-->
+1. Cheat Sheet <!-- .element: class="fragment" data-fragment-index="14"-->
  
 H:
 
-## Introduction
+## The command line
 
-1. Program paradigms brief overview
-1. Object Oriented Programming (OPP) Paradigm
+<figure>
+    <img height='400' src='fig/tux.png' />
+    <figcaption>Welcome to Linux!</figcaption>
+</figure>
 
 V:
 
-## Introduction: Program paradigms
+## The command line
 
-> A fundamental style of computer programming, serving as a way of building the programs
+```sh
+pierre ~/web/objetos/objects $ pwd
+/home/pierre/web/objetos/objects
+pierre ~/web/objetos/objects $
+```
 
-more [here](http://objetos.github.io/structured_programming)
+H:
+
+## Basic Navigation
+
+H:
+
+## More About Files
+
+H:
+
+## Manual Pages
+
+H:
+
+## File Manipulation
+
+H:
+
+## Vi Text Editor
+
+H:
+
+## Wildcards
+
+H:
+
+## Permissions
+
+H:
+
+## Filters
+
+H:
+
+## Grep and Regular Expression
+
+H:
+
+## Piping and Redirection
+
+H:
+
+## Process Management
+
+H:
+
+## Scripting
+
+H:
+
+## Cheat Sheet
 
 H:
 
 ## References
 
-* [Daniel Shiftman Objects tutorial](https://processing.org/tutorials/objects/)
-* [Processing "class"](https://processing.org/reference/class.html)
-* [Processing "object"](https://processing.org/reference/Object.html)
+* [Online terminal emulator -- webminal](http://www.webminal.org/)
+* [Command line tutorial](https://ryanstutorials.net/linuxtutorial/)
+* [Bash scripting tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
